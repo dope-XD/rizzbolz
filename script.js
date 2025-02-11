@@ -1,6 +1,6 @@
 function handleBuyClick() {
 
-    const tradingUrl = "https://app.uniswap.org/";
+    const tradingUrl = "#";
     window.open(tradingUrl, '_blank');
 }
 
